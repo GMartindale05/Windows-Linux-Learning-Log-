@@ -5,13 +5,16 @@ Software needed:
 - Virtual Box 
 url: https://www.virtualbox.org/wiki/Downloads 
 -Linux Distro- (for this instance we are using Kali Linux)
-url: https://www.kali.org/get-kali/#kali-platforms 
+url: [kaliwebsite]  {https://www.kali.org/get-kali/#kali-platforms} 
 ** ALWAYS download software from trusted sources!**
 
 
 Host system requirements 
 Hardware Virtualization: Confirm that your systmms virtulization is enabled in the computers BIOS or UEFI settings 
-Disable Hyper-V: Ensire Microsofts Hyper-V is not active on your Windows 11 host machine as if conflicts with Virtual Box  
+Disable Hyper-V: Ensire Microsofts Hyper-V is not active on your Windows 11 host machine as if conflicts with Virtual Box 
+
+System Resources: Have a 64 bit CPU 
+
 
 
 Install instructions 
