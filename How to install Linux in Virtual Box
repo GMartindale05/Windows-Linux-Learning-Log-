@@ -1,0 +1,22 @@
+Install process for a Windows 11 machine 
+
+
+Software needed: 
+- Virtual Box 
+url: https://www.virtualbox.org/wiki/Downloads 
+-Linux Distro- (for this instance we are using Kali Linux)
+url: https://www.kali.org/get-kali/#kali-platforms 
+** ALWAYS download software from trusted sources!**
+
+
+Host system requirements 
+Hardware Virtualization: Confirm that your systmms virtulization is enabled in the computers BIOS or UEFI settings 
+Disable Hyper-V: Ensire Microsofts Hyper-V is not active on your Windows 11 host machine as if conflicts with Virtual Box  
+
+
+Install instructions 
+First Make sure your windows device is up to date  install Virtual Box on your device from the url listed above 
+Go to https://www.kali.org/get-kali/#kali-platforms ** ALWAYS download linux distros from trusted sources**
+This will be to download the Virtual Machine installation 
+Go to the Pre-built VM's and choose the virtual machine for Virtual Box (or which-ever type of software you are using)
+download the installer and also click on the documents associated with the VM you choose to download and install and then unzip the document 
