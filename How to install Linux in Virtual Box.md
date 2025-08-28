@@ -2,10 +2,10 @@ Install process for a Windows 11 machine
 
 
 Software needed: 
-- Virtual Box 
-url: [Virtual Box](https://www.virtualbox.org/wiki/Downloads) 
+- Virtual Box- 
+  [VirtualBox](https://www.virtualbox.org/wiki/Downloads) 
 -Linux Distro- (for this instance we are using Kali Linux)
-Kali Linux ISO Image- url: [kaliwebsite](https://www.kali.org/get-kali/)
+Kali Linux ISO Image- [Getkali](https://www.kali.org/get-kali/)
 Virtual Box extension Pack 
 7zip as the iso to be downloaded is a .7zip file (7zip is a free software)
 ** ALWAYS download software from trusted sources!**
