@@ -47,8 +47,10 @@ Topics Overview
      Common Windows System issues
      Common Linux issues
      Network troubleshooting commands
-     Real World scenarios and case studies 
+     Real World scenarios and case studies
    
+8. Interview Questions and sample answers. 
+   questions will be over the above topics and answers taken from various reputable sources across the web. 
         
         
    
